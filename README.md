@@ -77,16 +77,4 @@ Principais tabelas:
 * Chamado
 * Status
 * Prioridade
-  
----
-
-## 📚 Objetivo do projeto
-
-Este projeto foi desenvolvido com fins educacionais para praticar:
-
-* Programação orientada a objetos
-* Organização de projetos Java
-* Arquitetura em camadas
-* Integração com banco de dados
-* Boas práticas de desenvolvimento
 
