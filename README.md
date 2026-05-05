@@ -8,6 +8,7 @@ O objetivo do sistema é permitir que usuários registrem problemas ou solicita�
 O sistema organiza os chamados por **status** e **prioridade**, facilitando o controle e a resolução das solicitações.
 
 Obs: Esse é um projeto acadêmico e está em fase de desenvolvimento pelo grupo. 🚧
+
 ---
 
 ## ⚙️ Funcionalidades
